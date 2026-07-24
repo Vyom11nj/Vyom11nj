@@ -1,6 +1,6 @@
 # Hi, I'm Vyom 👋
 
-**Aspiring Data Scientist** — I turn messy data into clear, decision-ready insights.
+**Aspiring Data Scientist**, I turn messy data into clear, decision-ready insights.
 
 🎓 MSc Data Science, University of Greenwich · BEng Artificial Intelligence & Data Science
 📍 London, United Kingdom
